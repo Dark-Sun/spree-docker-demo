@@ -22,3 +22,7 @@
 
 # Ignore local credentials
 /config/credentials.local.yml
+
+ecs-cli.asc
+/deploy/*
+aws_key.pub
